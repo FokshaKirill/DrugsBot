@@ -23,4 +23,4 @@ namespace Domain.Entities
 
 //ДОБАВИТЬ НАВИГАЦИЮ С ENTITY FRAMEWORK 
 //НУЖЕН DOCKER
-//POSTGREST нужен
+//POSTGRESQL нужен

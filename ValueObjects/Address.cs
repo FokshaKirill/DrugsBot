@@ -10,7 +10,7 @@ namespace Domain.ValueObjects
 	{
 		public string Address { get; set; }
 		public string City { get; set; }
-		public string Address { get; set; }
+		public string House { get; set; }
 
 		public Address()
 		{
